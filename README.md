@@ -35,7 +35,7 @@ Você encontrará todos os recursos necessários na pasta `/images`. Os ativos j
 
 Há também um arquivo `style-guide.md` contendo as informações necessárias, como paleta de cores e fontes.
 
-## Construindo seu projeto
+## Construindo seu projeto.
 
 Sinta-se à vontade para usar qualquer fluxo de trabalho com o qual se sinta confortável. Abaixo está um processo sugerido, mas você não precisa seguir estas etapas:
 
