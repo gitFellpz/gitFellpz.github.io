@@ -6,6 +6,7 @@ body{
     background-color: var(--violeta);
     background-size: cover;
     padding: 0 40px;
+    height: 100vh;
 }
 
 /* HEADER */
@@ -18,8 +19,85 @@ body{
     width: 200px;
 }
 
+
 /*  PRINCIPAL / MAIN */
     .principal{
+        margin-top: 25px;
         display: grid;
         grid-template-columns: 1fr 1fr;
+        max-width: var(--width-desktop);
+        height: 80vh;
+        margin: 0 auto;
     }
+    .principal .telas{
+        display: flex;
+        flex-direction: column;
+        align-self: center;
+    }
+    .principal .telas img{
+        width: 100%;
+    }
+    .principal .item{
+        margin: 20px 40px;
+        display: flex;
+        flex-direction: column;
+        align-self: center;
+    }
+    .principal .item h2{
+        font-family: var(--poppins);
+        font-weight: 600;
+        color: white;
+        font-size: 3.5rem;
+        margin-bottom: 20px;
+    }
+    .principal .item p{
+        color: white;
+        font-size: 1.7rem;
+        font-family: var(--open-sans);
+        font-weight: 400;
+        margin-bottom: 20px;
+    }
+    .principal .item .botao{
+        display: flex;
+        background-color: white;
+        border-radius: 30px;
+        font-size: 1.5rem;
+        color: var(--violeta);
+        width: 170px;
+        height: 50px;
+        justify-content: center;
+        align-items: center;
+        font-family: var(--poppins);
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 8px 7px;
+        transition: 0.3s;
+    }
+    .principal .item .botao:hover{
+        background-color: rgb(233, 233, 233);
+    }
+
+    /* Responsivo */
+    .principal
+
+
+/* Rodape */
+.rodape{
+    display: flex;
+    justify-content: end;
+}
+.rodape a{
+    margin: 0 10px;
+}
+.rodape i{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    width: 40px;
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 45px;
+    color: white;
+}
+.rodape a:nth-child(3){
+    margin-right: 10%;
+}
