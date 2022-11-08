@@ -1,0 +1,8 @@
+html{
+    font-size: 62.5%;
+}
+body{
+    background: url('../images/bg-desktop.svg') center center no-repeat;
+    background-color: var(--violeta);
+    background-size: cover;
+}
