@@ -1,3 +1,4 @@
+/* RESET */
 *{
     margin: 0;
     padding: 0;
@@ -16,3 +17,7 @@ ul{
 img{
     max-width: 100%;
 }
+
+/* Estilização do Frontend Mentor */
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
