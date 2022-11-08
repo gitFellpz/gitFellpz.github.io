@@ -76,7 +76,28 @@ body{
     }
 
     /* Responsivo */
-    .principal
+    @media (max-width: 768px){
+        .principal{
+            grid-template-columns: 1fr;
+        }
+        .principal .telas{
+            margin: 0 15%;
+        }
+        .principal .item{
+            text-align: center;
+        }
+        .principal .item .botao{
+            margin-top: 10px;
+            width: 220px;
+            margin: 0 auto;
+        }
+    }
+    @media (max-width: 475px){
+        .principal .telas{
+            margin: 0;
+        }
+
+    }
 
 
 /* Rodape */
@@ -100,4 +121,14 @@ body{
 }
 .rodape a:nth-child(3){
     margin-right: 10%;
+}
+
+/* Responsivo */
+@media (max-width: 768px){
+    .rodape{
+        justify-content: center;
+    }
+    .rodape a:nth-child(3){
+        margin-right: 0;
+    }
 }
