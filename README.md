@@ -4,7 +4,7 @@ Esta é uma solução para o [desafio da página inicial do Huddle com uma únic
 
 ## Índice
 
-- [VisãoGeral](#visão geral)
+- [Overview](#visão geral)
   - [O desafio](#the-challenge)
   - [Captura de tela](#captura de tela)
   - [Links](#links)
