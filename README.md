@@ -4,15 +4,15 @@ Esta é uma solução para o [desafio da página inicial do Huddle com uma únic
 
 ## Índice
 
-- [Visão geral](#Visão geral)
-  - [O desafio](#the-challenge)
-  - [Captura de tela](#captura de tela)
+- [Visão geral](#Visão-geral)
+  - [O desafio](#o-desafio)
+  - [Captura de tela](#captura-de-tela)
   - [Links](#links)
 - [Meu processo](#meu-processo)
-  - [Construído com](#construído com)
+  - [Construído com](#construído-com)
   - [O que aprendi](#o-que-aprendi)
-  - [Desenvolvimento contínuo](#desenvolvimento contínuo)
-  - [Recursos úteis](#useful-resources)
+  - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
+  - [Recursos úteis](#recursos-úteis)
 - [Autor](#autor)
 - [Agradecimentos](#agradecimentos)
 
