@@ -4,7 +4,7 @@ Esta é uma solução para o [desafio da página inicial do Huddle com uma únic
 
 ## Índice
 
-- [Overview](#visão geral)
+- [Visão geral](#Visão geral)
   - [O desafio](#the-challenge)
   - [Captura de tela](#captura de tela)
   - [Links](#links)
@@ -46,7 +46,7 @@ Os usuários devem ser capazes de:
 - Grade CSS
 - Ícones com Font-Awesome
 
-### O que eu aprendi
+### O que aprendi
 
 Use esta seção para recapitular alguns de seus principais aprendizados ao trabalhar neste projeto. Escrevê-los e fornecer amostras de código das áreas que você deseja destacar é uma ótima maneira de reforçar seu próprio conhecimento.
 
