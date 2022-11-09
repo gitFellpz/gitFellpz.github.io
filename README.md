@@ -1,92 +1,111 @@
-# Frontend Mentor - Página inicial do Huddle com uma única seção introdutória
+# Frontend Mentor - Página inicial do Huddle com solução de seção introdutória única
 
-![Visualização do design para a página de destino do Huddle com uma única seção introdutória](./design/desktop-preview.jpg)
+Esta é uma solução para o [desafio da página inicial do Huddle com uma única seção introdutória no Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0) . Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
 
-## Bem-vindo! 👋
+## Índice
 
-Obrigado por conferir este desafio de codificação de front-end.
+- [Visão geral](#visão geral)
+  - [O desafio](#the-challenge)
+  - [Captura de tela](#captura de tela)
+  - [Links](#links)
+- [Meu processo](#meu-processo)
+  - [Construído com](#construído com)
+  - [O que aprendi](#o-que-aprendi)
+  - [Desenvolvimento contínuo](#desenvolvimento contínuo)
+  - [Recursos úteis](#useful-resources)
+- [Autor](#autor)
+- [Agradecimentos](#agradecimentos)
 
-Os desafios do [Frontend Mentor](https://www.frontendmentor.io) ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
+**Observação: exclua esta nota e atualize o índice com base nas seções que você mantém.**
 
-**Para fazer esse desafio, você precisa ter um conhecimento básico de HTML e CSS.**
+## Visão geral
 
-## O desafio
+### O desafio
 
-Seu desafio é construir esta página de destino a partir dos designs fornecidos no código inicial.
-
-Você pode usar qualquer ferramenta que desejar para ajudá-lo a completar o desafio. Então, se você tem algo que gostaria de praticar, sinta-se à vontade para tentar.
-
-Seus usuários devem ser capazes de:
+Os usuários devem ser capazes de:
 
 - Visualize o layout ideal para a página, dependendo do tamanho da tela do dispositivo
 - Veja os estados de foco para todos os elementos interativos na página
 
-Quer algum apoio no desafio? [Junte-se à nossa comunidade Slack](https://www.frontendmentor.io/slack) e faça perguntas no canal **#help**.
+### Captura de tela
 
-## Onde encontrar tudo
+![](./screenshot.jpg)
 
-Sua tarefa é construir o projeto para os designs dentro da pasta `/design`. Você encontrará uma versão móvel e uma versão desktop do design.
+Adicione uma captura de tela da sua solução. A maneira mais fácil de fazer isso é usar o Firefox para visualizar seu projeto, clicar com o botão direito do mouse na página e selecionar "Fazer uma captura de tela". Você pode escolher uma captura de tela de altura total ou uma cortada com base no tamanho da página. Se for muito longo, talvez seja melhor cortá-lo.
 
-Os desenhos estão em formato JPG estático. Usar JPGs significa que você precisará usar seu melhor julgamento para estilos como `font-size`, `padding` e `margin`.
+Como alternativa, você pode usar uma ferramenta como [FireShot](https://getfireshot.com/) para fazer a captura de tela. FireShot tem uma opção gratuita, então você não precisa comprá-la.
 
-Se você quiser que os arquivos de design (fornecemos versões Sketch e Figma) para inspecionar o design com mais detalhes, você pode [inscrever-se como membro PRO](https://www.frontendmentor.io/pro).
+Em seguida, corte/otimize/edite sua imagem como quiser, adicione-a ao seu projeto e atualize o caminho do arquivo na imagem acima.
 
-Você encontrará todos os recursos necessários na pasta `/images`. Os ativos já estão otimizados.
+**Nota: Exclua esta nota e os parágrafos acima ao adicionar sua captura de tela. Se preferir não adicionar uma captura de tela, sinta-se à vontade para remover esta seção inteira.**
 
-Há também um arquivo `style-guide.md` contendo as informações necessárias, como paleta de cores e fontes.
+### Links
 
-## Construindo seu projeto.
+- URL da solução: [Adicione o URL da solução aqui](https://your-solution-url.com)
+- URL do site ao vivo: [Adicione o URL do site ao vivo aqui](https://your-live-site-url.com)
 
-Sinta-se à vontade para usar qualquer fluxo de trabalho com o qual se sinta confortável. Abaixo está um processo sugerido, mas você não precisa seguir estas etapas:
+## Meu processo
 
-1. Inicialize seu projeto como um repositório público no [GitHub](https://github.com/). A criação de um repositório facilitará o compartilhamento de seu código com a comunidade se você precisar de ajuda. Se você não tiver certeza de como fazer isso, [leia este recurso do Try Git](https://try.github.io/).
-2. Configure seu repositório para publicar seu código em um endereço da web. Isso também será útil se você precisar de ajuda durante um desafio, pois pode compartilhar a URL do seu projeto com a URL do repositório. Existem várias maneiras de fazer isso e fornecemos algumas recomendações abaixo.
-3. Examine os projetos para começar a planejar como você vai lidar com o projeto. Esta etapa é crucial para ajudá-lo a pensar no futuro para que as classes CSS criem estilos reutilizáveis.
-4. Antes de adicionar qualquer estilo, estruture seu conteúdo com HTML. Escrever seu HTML primeiro pode ajudar a focar sua atenção na criação de conteúdo bem estruturado.
-5. Escreva os estilos básicos para seu projeto, incluindo estilos de conteúdo gerais, como `font-family` e `font-size`.
-6. Comece a adicionar estilos ao topo da página e trabalhe para baixo. Apenas passe para a próxima seção quando estiver satisfeito por ter concluído a área em que está trabalhando.
+### Construído com
 
-## Como implantar seu projeto
+- Marcação HTML5 semântica
+- Propriedades personalizadas de CSS
+- Flexbox
+- Grade CSS
+- Fluxo de trabalho mobile-first
+- [React](https://reactjs.org/) - biblioteca JS
+- [Next.js](https://nextjs.org/) - Estrutura de reação
+- [Componentes estilizados](https://styled-components.com/) - Para estilos
 
-Como mencionado acima, existem muitas maneiras de hospedar seu projeto gratuitamente. Nossos anfitriões recomendados são:
+**Nota: Estes são apenas exemplos. Exclua esta nota e substitua a lista acima por suas próprias escolhas**
 
-- [Páginas do GitHub](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
+### O que eu aprendi
 
-Você pode hospedar seu site usando uma dessas soluções ou qualquer um de nossos outros provedores confiáveis. [Leia mais sobre nossos hosts recomendados e confiáveis](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
+Use esta seção para recapitular alguns de seus principais aprendizados ao trabalhar neste projeto. Escrevê-los e fornecer amostras de código das áreas que você deseja destacar é uma ótima maneira de reforçar seu próprio conhecimento.
 
-## Crie um `README.md` personalizado
+Para ver como você pode adicionar snippets de código, veja abaixo:
 
-É altamente recomendável substituir este `README.md` por um personalizado. Fornecemos um modelo dentro do arquivo [`README-template.md`](./README-template.md) neste código inicial.
+```html
+<h1>Alguns códigos HTML dos quais me orgulho</h1>
+```
+``` css
+.orgulhoso-deste-css {
+  cor: papayawhip;
+}
+```
+``` js
+const proudOfThisFunc = () => {
+  console.log('🎉')
+}
+```
 
-O modelo fornece um guia sobre o que adicionar. Um `README` personalizado ajudará você a explicar seu projeto e refletir sobre seus aprendizados. Sinta-se à vontade para editar nosso modelo o quanto quiser.
+Se você quiser mais ajuda para escrever markdown, recomendamos conferir [The Markdown Guide](https://www.markdownguide.org/) para saber mais.
 
-Depois de adicionar suas informações ao modelo, exclua este arquivo e renomeie o arquivo `README-template.md` para `README.md`. Isso fará com que ele apareça como o arquivo README do seu repositório.
+**Observação: exclua esta nota e o conteúdo desta seção e substitua por seus próprios aprendizados.**
 
-## Enviando sua solução
+### Desenvolvimento contínuo
 
-Envie sua solução na plataforma para que o resto da comunidade veja. Siga nosso ["Guia completo para enviar soluções"](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) para obter dicas sobre como fazer isto.
+Use esta seção para delinear as áreas nas quais você deseja continuar focando em projetos futuros. Estes podem ser conceitos com os quais você ainda não está completamente confortável ou técnicas que você achou úteis que você deseja refinar e aperfeiçoar.
 
-Lembre-se de que, se estiver procurando feedback sobre sua solução, faça perguntas ao enviá-la. Quanto mais específico e detalhado você for com suas perguntas, maior será a chance de obter feedback valioso da comunidade.
+**Observação: exclua esta nota e o conteúdo desta seção e substitua por seus próprios planos de desenvolvimento contínuo.**
 
-## Compartilhando sua solução
+### Recursos úteis
 
-Há vários lugares onde você pode compartilhar sua solução:
+- [Recurso de exemplo 1](https://www.example.com) - Isso me ajudou pelo motivo XYZ. Gostei muito deste modelo e vou usá-lo daqui para frente.
+- [Example resource 2](https://www.example.com) - Este é um artigo incrível que me ajudou a finalmente entender XYZ. Eu recomendo para quem ainda está aprendendo este conceito.
 
-1. Compartilhe sua página de solução no canal **#finished-projects** da [comunidade do Slack](https://www.frontendmentor.io/slack).
-2. Tweet [@frontendmentor](https://twitter.com/frontendmentor) e mencione **@frontendmentor**, incluindo o repositório e os URLs ativos no tweet. Adoraríamos dar uma olhada no que você construiu e ajudar a compartilhá-lo.
-3. Compartilhe sua solução em outros canais sociais como o LinkedIn.
-4. Faça um blog sobre sua experiência na construção de seu projeto. Escrever sobre seu fluxo de trabalho, escolhas técnicas e falar sobre seu código é uma maneira brilhante de reforçar o que você aprendeu. Ótimas plataformas para escrever são [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/) e [CodeNewbie](https://community.codenewbie.org /).
+**Nota: Apague esta nota e substitua a lista acima por recursos que o ajudaram durante o desafio. Eles podem ser úteis para qualquer pessoa que esteja visualizando sua solução ou para você mesmo quando fizer uma retrospectiva deste projeto no futuro.**
 
-Fornecemos modelos para ajudá-lo a compartilhar sua solução depois de enviá-la na plataforma. Edite-os e inclua perguntas específicas quando estiver procurando feedback.
+## Autor
 
-Quanto mais específico você for com suas perguntas, mais provável será que outro membro da comunidade lhe dê feedback.
+- Site - [Adicione seu nome aqui](https://www.your-site.com)
+- Mentor de frontend - [@seunomedeusuário](https://www.frontendmentor.io/profile/seunomedeusuário)
+- Twitter - [@seunome de usuário](https://www.twitter.com/seunome de usuário)
 
-## Tem feedback para nós?
+**Observação: exclua esta nota e adicione/remova/edite as linhas acima com base nos links que deseja compartilhar.**
 
-Adoramos receber feedback! Estamos sempre procurando melhorar nossos desafios e nossa plataforma. Portanto, se você tiver algo que gostaria de mencionar, envie um e-mail para hi[at]frontendmentor[dot]io.
+## Agradecimentos
 
-Este desafio é totalmente gratuito. Por favor, compartilhe-o com qualquer pessoa que achará útil para a prática.
+É aqui que você pode dar uma dica de chapéu para quem o ajudou neste projeto. Talvez você tenha trabalhado em equipe ou tenha se inspirado na solução de outra pessoa. Este é o lugar perfeito para dar-lhes algum crédito.
 
-**Divirta-se construindo!** 🚀
+**Nota: Exclua esta nota e edite o conteúdo desta seção conforme necessário. Se você completou este desafio sozinho, sinta-se à vontade para excluir esta seção completamente.**
