@@ -1,10 +1,10 @@
-# Frontend Mentor - Página inicial do Huddle com solução de seção introdutória única
+# Frontend Mentor - Quest
 
 Esta é uma solução para o [desafio da página inicial do Huddle com uma única seção introdutória no Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0) . Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
 
 ## Índice
 
-- [Visão geral](#visão geral)
+- [VisãoGeral](#visão geral)
   - [O desafio](#the-challenge)
   - [Captura de tela](#captura de tela)
   - [Links](#links)
@@ -29,15 +29,7 @@ Os usuários devem ser capazes de:
 
 ### Captura de tela
 
-![](./screenshot.jpg)
-
-Adicione uma captura de tela da sua solução. A maneira mais fácil de fazer isso é usar o Firefox para visualizar seu projeto, clicar com o botão direito do mouse na página e selecionar "Fazer uma captura de tela". Você pode escolher uma captura de tela de altura total ou uma cortada com base no tamanho da página. Se for muito longo, talvez seja melhor cortá-lo.
-
-Como alternativa, você pode usar uma ferramenta como [FireShot](https://getfireshot.com/) para fazer a captura de tela. FireShot tem uma opção gratuita, então você não precisa comprá-la.
-
-Em seguida, corte/otimize/edite sua imagem como quiser, adicione-a ao seu projeto e atualize o caminho do arquivo na imagem acima.
-
-**Nota: Exclua esta nota e os parágrafos acima ao adicionar sua captura de tela. Se preferir não adicionar uma captura de tela, sinta-se à vontade para remover esta seção inteira.**
+![](./images/print-tela.png)
 
 ### Links
 
@@ -52,12 +44,7 @@ Em seguida, corte/otimize/edite sua imagem como quiser, adicione-a ao seu projet
 - Propriedades personalizadas de CSS
 - Flexbox
 - Grade CSS
-- Fluxo de trabalho mobile-first
-- [React](https://reactjs.org/) - biblioteca JS
-- [Next.js](https://nextjs.org/) - Estrutura de reação
-- [Componentes estilizados](https://styled-components.com/) - Para estilos
-
-**Nota: Estes são apenas exemplos. Exclua esta nota e substitua a lista acima por suas próprias escolhas**
+- Ícones com Font-Awesome
 
 ### O que eu aprendi
 
