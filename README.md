@@ -33,8 +33,9 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: [Adicione o URL da solução aqui](https://your-solution-url.com)
-- URL do site ao vivo: [Adicione o URL do site ao vivo aqui](https://your-live-site-url.com)
+- URL da solução: [https://github.com/gitFellpz/quest-devQuest#o-desafio](https://github.com/gitFellpz/quest-devQuest#o-desafio)
+- URL do site ao vivo: [https://gitfellpz.github.io/](https://gitfellpz.github.io/)
+- obs: Provavelmente essa url ao vivo vai estar com outro site na hospedagem. Faço vários projetos no git pages.
 
 ## Meu processo
 
