@@ -16,7 +16,6 @@ Esta é uma solução para o [desafio da página inicial do Huddle com uma únic
 - [Autor](#autor)
 - [Agradecimentos](#agradecimentos)
 
-**Observação: exclua esta nota e atualize o índice com base nas seções que você mantém.**
 
 ## Visão geral
 
